@@ -37,3 +37,5 @@ INSTALACION:
 		C:\Python37>ETL_SEASON.bat 0910
 		(NOTA: Donde 0910 es el numero de temporada que coincide con el dataset de entrada ubicado en /wallmart/data)
 	4- Esperar la ejecucion, presionar cualquier tecla y diriguirse a la carpeta wallmart/report
+	
+El documento de architectura (.png) propuesta se encuentra en la carpeta /wallmart	
