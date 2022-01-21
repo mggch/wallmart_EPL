@@ -1,14 +1,14 @@
 # wallmart_EPL
 
-========================================================================================================================
+
 == PROCESO: ETL_SEASON.bat
 == AUTOR: MAURICIO GALLARDO
 == VERSION: V.0.1
 == FECHA: 21/01/2022
 ==
-== =====================================================================================================================
+== 
 == DESCRIPCION: PROCESO ETL PARA GENERACION DE REPORTES DE EPL
-== =====================================================================================================================
+== 
 == PARAMETROS DE ENTRADA: FEC_TEMPORADA: Fecha de la temporada (DDDD) D: Digito del 0-9
 ==
 == SALIDA (CARPETA wallmart/reportes): 
@@ -19,7 +19,7 @@
 ==   PL_INDGOL_DDDD.csv       : REPORTE DE EQUIPO MEJOR RELACION DE DISPAROS DE ARCO TERMINANDO EN GOL DIVISION PREMIER LEAGUE
 ==   PL_CANGOLCONTRA_DDDD.csv : REPORTE DE EQUIPO MAS GOLEADO DIVISION E0 DIVISION PREMIER LEAGUE     
 ==
-========================================================================================================================
+
 
 REQUERIMIENTOS:
 	- Python version 3.7
